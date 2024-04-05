@@ -12,3 +12,5 @@ Crie um repositório remoto e envie o script em SQL;
 Produza o Readme do repositório remoto e tire um print da tela após o término da atividade;
 
 Coloque comentários em seu código.
+
+![image](https://github.com/Lumarcone/Alunos-e-Cidades-INNER-JOIN-E-ALIASES-/assets/137897667/a41378bf-0746-4647-9c47-e34ad7a29dac)
